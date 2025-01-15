@@ -10,5 +10,5 @@ If you use the code, please consider citing the paper:
       journal={Transactions on Machine Learning Research},
       year={2024},
       url={https://openreview.net/forum?id=8tMMCf4YYn},
-}'''
+}
 
